@@ -38,16 +38,7 @@ The goal of this project is to use PINNs to "unlock" the black box, creating a m
 - **Interpretability:** Provides insights into hidden reaction kinetics and catalyst behavior.  
 - **Practical Applications:** Empowers plant operators to perform optimizations and troubleshooting independently.  
 
----
-
-## Repository Contents
-
-- `pinn-trial-1.ipynb`: The core experiment notebook demonstrating the implementation and results of the PINN approach.  
-- `data/`: Folder for operational data used for training the PINN (placeholder for dataset details).  
-- `src/`: Scripts for model architecture, training pipelines, and custom loss functions.  
-- `results/`: Visualization of the PINN predictions, losses, and model performance.  
-
----
+___
 
 ## Installation and Usage
 
